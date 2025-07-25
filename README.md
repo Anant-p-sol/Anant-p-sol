@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anant kumar sah</h1>
 <h3 align="center">"Passionate CSE student crafting code with clarity, purpose, and a touch of curiosity."</h3>
 <img align="right" alt="coding gif" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anant-p-sol&label=Profile%20views&color=0e75b6&style=flat" alt="anant-p-sol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anant-p-sol" alt="anant-p-sol" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **MCP Project**
 
